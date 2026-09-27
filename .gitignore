@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.pyc
+*.png
+.DS_Store
+Thumbs.db
